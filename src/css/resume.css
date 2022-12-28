@@ -1,0 +1,41 @@
+.resume {
+    padding: 64px 32px;
+    background-color: #3f51b5;
+    color: #fff;
+    height: 100%;
+}
+
+.resume__header {
+    text-align: center;
+}
+
+.resume__header h3 {
+    margin: 10px 15px;
+}
+
+.resume__header p {
+    margin-bottom: 15px;
+}
+
+.resume tbody tr:nth-child(odd) {
+    background-color: #fff;
+    color: black;
+}
+
+.resume table th,
+.resume table td {
+    padding: 8px;
+}
+
+.resume table th {
+    text-align: left;
+}
+
+.resume table th:first-child,
+.resume table td:first-child {
+    padding-left: 16px;
+}
+
+.resume td {
+    vertical-align: top;
+}

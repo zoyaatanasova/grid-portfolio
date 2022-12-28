@@ -1,0 +1,10 @@
+.nav {
+    padding: 64px 0;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #fff;
+    padding: 16px;
+    display: block;
+}

@@ -1,0 +1,10 @@
+@import './general.css';
+@import './grid/style.css';
+@import './nav.css';
+@import './header.css';
+@import './article.css';
+@import './projects.css';
+@import './resume.css';
+@import './contacts.css';
+@import './form.css';
+@import './footer.css';

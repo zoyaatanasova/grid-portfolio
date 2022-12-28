@@ -1,0 +1,14 @@
+.footer {
+    background-color: black;
+    color: #fff;
+    padding: 16px;
+    height: 100%;
+}
+
+.footer a {
+    color: #fff;
+}
+
+.footer p {
+    padding: 15px 0;
+}

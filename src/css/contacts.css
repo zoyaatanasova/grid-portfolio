@@ -1,0 +1,24 @@
+.contacts {
+    background-color: #616161;
+    color: #fff;
+    text-align: center;
+    height: 100%;
+    padding: 0 16px;
+}
+
+.contacts__header {
+    padding: 64px 0;
+}
+
+.contacts a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.contacts__body {
+    padding: 64px 0;
+}
+
+.contacts__body p {
+    margin: 15px 0;
+}

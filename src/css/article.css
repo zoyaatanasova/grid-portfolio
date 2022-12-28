@@ -1,0 +1,21 @@
+.article {
+    background-color: #607d8b;
+    color: #fff;
+    padding: 64px 40px;
+    height: 100%;
+}
+
+.article h2 {
+    text-align: center;
+    font-weight: normal;
+    margin: 10px 0 26px;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.article img {
+    border-radius: 50%;
+    width: 50%;
+    height: auto;
+    margin: 0 auto 43px;
+    display: block;
+}
